@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+
+h1{
+    font-family: "Playwrite IT Moderna", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: white;
+  background-color: rgb(255, 81, 0);
+}
+
+h2{
+    font-family: "Playwrite IT Moderna", cursive;
+    color: white;
+    background-color: rgb(255, 81, 0);
+}
+
+button{
+    border: rgb(255, 81, 0); padding: 1cm;
+}
+footer {
+    background-color: rgb(255, 185, 119);
+    color: white;
+}
